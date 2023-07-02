@@ -1,4 +1,4 @@
-# __Dmitry Kravchuk__
+# __Dmitry Kravchuk__         ![my_photo](/img/avatar1.jpg)
 
 -----------------------------------------------------
 
@@ -12,7 +12,7 @@ I was born on February 7th, 1979 in Minsk, Belarus.
 
 My current location: Białystok, Poland  
 
-### _+48 792 821 783_ ![messengers_logo](/img/messangers.jpg)
+## _+48 792 821 783_      ![messengers_logo](/img/messangers.jpg)
 
 ### _e-mail: dmitry.kravchuk.1979@gmail.com_
 
@@ -70,7 +70,7 @@ Specialization: “Web-design and programming”, 2018 – 2020.
 3. Sense of humor, erudition and at the same time modesty
 
 -----------------------------------------------------------------------
-## __Langauges__
+## __Languages__
 
 I have a driving license category B.
 
