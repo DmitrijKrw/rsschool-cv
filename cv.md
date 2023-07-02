@@ -12,10 +12,7 @@ I was born on February 7th, 1979 in Minsk, Belarus.
 
 My current location: Białystok, Poland  
 
-### _+48 792 821 783_ 
-![Viber_logo](/img/viber.png)
-![Telegram_logo](/img/telegram.png)
-![Whatsapp_logo](/img/whatsapp.png)
+### _+48 792 821 783_ ![messengers_logo](/img/messangers.jpg)
 
 ### _e-mail: dmitry.kravchuk.1979@gmail.com_
 
@@ -58,6 +55,11 @@ Specialization: “Web-design and programming”, 2018 – 2020.
 - And other
 
 -------------------------------------------------------------------
+
+## __Code example__
+
+![part_of_code](/img/code1.jpg)
+
 
 ## __Soft skills__
 
